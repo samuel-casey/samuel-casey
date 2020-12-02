@@ -4,7 +4,7 @@
 
 
 
-### My Github Stats 📊
+### Stats 📊
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey&theme=vue&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9&theme=vue&show_icons=true&card_width=350&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
