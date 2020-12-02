@@ -2,7 +2,7 @@
 
 ### About me  ℹ️
 
-I'm an entrepreneurial Software Engineer from Boston, MA passionate about using my combination of business and tech skills to help others. I'm interested in crypto, entrepreneurship, and the creator economy. I'm a former finance and strategy analyst turned software engineer, and I have been teaching myself to code since early 2019. I graduated from a General Assembly bootcamp in November of 2020 and have been working to improve my skills and find a way to make an impact with code since.
+> I'm an entrepreneurial Software Engineer from Boston, MA passionate about using my combination of business and tech skills to help others. I'm interested in crypto, entrepreneurship, and the creator economy. I'm a former finance and strategy analyst turned software engineer, and I have been teaching myself to code since early 2019. I graduated from a General Assembly bootcamp in November of 2020 and have been working to improve my skills and find a way to make an impact with code since.
 
 
 
@@ -19,9 +19,9 @@ I'm an entrepreneurial Software Engineer from Boston, MA passionate about using 
 
 
 ### My works in progress  ⏳
-> Improving [red ink](https://red-ink-writing.com)
-> Learning web3.js and finding a way to contribute to Ethereum and Bitcoin projects
-> Finding a new role at mission-driven company working to solve real-world problems for everyday people 
+- Improving [red ink](https://red-ink-writing.com)
+- Learning web3.js and finding a way to contribute to Ethereum and Bitcoin projects
+- Finding a new role at mission-driven company working to solve real-world problems for everyday people 
 
 
 
