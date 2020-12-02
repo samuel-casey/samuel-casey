@@ -9,6 +9,9 @@ I'm passionate about using my combination of business and tech skills to help ot
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
 
+### Technologies & Tools
+
+[!](https://res.cloudinary.com/scimgcloud/image/upload/v1606874741/Screen_Shot_2020-12-01_at_9.04.53_PM_vswy9n.png)
 
 ### I'm currently focused on:
 - [red ink](https://red-ink-writing.com)
@@ -22,8 +25,3 @@ I'm passionate about using my combination of business and tech skills to help ot
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: https://d2fltix0v2e0sb.cloudfront.net/dev-black.png (DEV.to logo)
 
-<!--
-**samuel-casey/samuel-casey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
