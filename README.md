@@ -15,10 +15,11 @@ I'm a self-taught software engineer with a passion for using my combination of b
 - Finding a new role at mission-driven company working to solve real-world problems for everyday people 
 
 ### Links
-[Portfolio](https://samcasey.info) | [![Twitter][1.2]](https://twitter.com/_samcasey) | [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/)
+[Portfolio](https://samcasey.info) | [![Twitter][1.2]](https://twitter.com/_samcasey) | [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/) | [![DEV.to][3.2]](https://dev.to/samuelcasey)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://d2fltix0v2e0sb.cloudfront.net/dev-black.png (DEV.to logo)
 
 <!--
 **samuel-casey/samuel-casey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
