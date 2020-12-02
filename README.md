@@ -6,7 +6,7 @@ I'm a self-taught software engineer with a passion for using my combination of b
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact?hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&?hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### I'm currently focused on:
