@@ -1,5 +1,5 @@
-### Hi! I'm Sam Casey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### A Software Engineer from Boston, MA
+## Hi! I'm Sam Casey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### A Software Engineer from Boston, MA
 
 
 
