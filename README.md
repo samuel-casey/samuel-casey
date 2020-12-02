@@ -1,9 +1,13 @@
 ### Hi! I'm Sam Casey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### A Software Engineer from Boston, MA
 
+### About me  ℹ️
+
 I'm passionate about using my combination of business and tech skills to help others. I'm interested in crypto, entrepreneurship, and the creator economy. I'm a former finance and strategy analyst turned software engineer, and I have been teaching myself to code since early 2019. I graduated from a General Assembly bootcamp in November of 2020 and have been working to improve my skills and find a way to make an impact with code since.
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey&theme=vue&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9&theme=vue&show_icons=true&card_width=350&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+### My Github Stats 📊
+
+[![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey&theme=vue&show_icons=true&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9&theme=vue&show_icons=true&card_width=350&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies & Tools  🧰
 
