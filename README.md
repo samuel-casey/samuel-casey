@@ -7,12 +7,12 @@ I'm a self-taught software engineer with a passion for using my combination of b
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey)](https://github.com/samuel-casey/github-readme-stats)
 
-**I'm currently focused on:**
+### I'm currently focused on:
 - [red ink](https://red-ink-writing.com)
 - Learning web3.js and finding a way to contribute to the Bitcoin and Ethereum communities
 - Finding a new role at mission-driven company working to solve real-world problems for everyday people 
 
-**Links**
+### Links
 [Portfolio](https://samcasey.info) | [![Twitter][1.2]](https://twitter.com/_samcasey) | [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
