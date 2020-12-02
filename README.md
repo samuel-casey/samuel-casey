@@ -22,6 +22,6 @@ I'm a self-taught software engineer with a passion for using my combination of b
 <!--
 **samuel-casey/samuel-casey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact?hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
