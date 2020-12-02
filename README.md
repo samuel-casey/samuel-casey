@@ -14,7 +14,7 @@ I'm a self-taught software engineer with a passion for using my combination of b
 
 **Links**
 - [My portfolio](https://samcasey.info)
-- [Twitter[![Twitter][1.2]](https://twitter.com/_samcasey)
+- Twitter[![Twitter][1.2]](https://twitter.com/_samcasey)
 - [LinkedIn](https://www.linkedin.com/in/sam-casey1/)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
