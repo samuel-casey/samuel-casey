@@ -3,7 +3,7 @@
 
 I'm a self-taught software engineer with a passion for using my combination of business and tech skills to help others. In the past, I worked at Fidelity Investments as a Senior Strategy Analyst and as a team member of two-internal startups. I started teaching myself to code in early 2019 while still at Fidelity in order to make my work in Excel easier. What started as a few lines of SQL and Python code turned into a passion for using code to express myself and solve business problems. I left Fidelity in January of 2019 to dive deeper into code, and flex my entrepreneurial muscles by using what I learned about UI/UX design and startup strategy at Fidelity and Babson College in my own company, River Interactive.
 
-[![Twitter][1.2]][1
+[![Twitter][1.2]][1]
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey)](https://github.com/samuel-casey/github-readme-stats)
 
