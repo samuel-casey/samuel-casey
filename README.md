@@ -1,13 +1,13 @@
-### Hi!I'm Sam Casey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi! I'm Sam Casey<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### A Software Engineer from Boston, MA
 
 I'm passionate about using my combination of business and tech skills to help others. 
 
 ### My Stats
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey)](https://github.com/anuraghazra/github-readme-stats)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=samuel-casey&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-casey&layout=compact&hide=html,jupyter%20notebook,TeX&langs_count=9&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Technologies & Tools
 
