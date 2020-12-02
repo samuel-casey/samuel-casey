@@ -11,7 +11,7 @@ I'm passionate about using my combination of business and tech skills to help ot
 
 ### Technologies & Tools
 
-[!(https://res.cloudinary.com/scimgcloud/image/upload/v1606874741/Screen_Shot_2020-12-01_at_9.04.53_PM_vswy9n.png)]
+<img src=https://res.cloudinary.com/scimgcloud/image/upload/v1606874741/Screen_Shot_2020-12-01_at_9.04.53_PM_vswy9n.png />
 
 ### I'm currently focused on:
 - [red ink](https://red-ink-writing.com)
