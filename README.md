@@ -14,7 +14,7 @@ I'm passionate about using my combination of business and tech skills to help ot
 <img src=https://res.cloudinary.com/scimgcloud/image/upload/v1606874741/Screen_Shot_2020-12-01_at_9.04.53_PM_vswy9n.png />
 
 ### I'm currently focused on:
-- [red ink](https://red-ink-writing.com)
+- Improving [red ink](https://red-ink-writing.com)
 - Learning web3.js and finding a way to contribute to Ethereum and Bitcoin projects
 - Finding a new role at mission-driven company working to solve real-world problems for everyday people 
 
