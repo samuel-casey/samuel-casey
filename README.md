@@ -17,7 +17,7 @@ I'm an entrepreneurial Software Engineer from Boston, MA passionate about using 
 
 
 ### My works in progress  ⏳
-- Improving [red ink](https://red-ink-writing.com)
+- Improving [red ink](https://red-ink-writing.com) and [CoinRef](https://coinref.org)
 - Learning web3.js and finding a way to contribute to Ethereum and Bitcoin projects
 - Finding a new role at mission-driven company working to solve real-world problems for everyday people 
 
