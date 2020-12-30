@@ -24,10 +24,9 @@ I'm an entrepreneurial Software Engineer from Boston, MA passionate about using 
 
 
 ### Links  🔗
-[Portfolio](https://samcasey.info) |   [![Twitter][1.2]]([1.3))  |   [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/)   |   [DEV.to](https://dev.to/samuelcasey)
+[Portfolio](https://samcasey.info) |   [![Twitter][1.2](https://twitter.com/_samcasey)]  |   [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/)   |   [DEV.to](https://dev.to/samuelcasey)
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1.3]: https://twitter.com/_samcasey
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [3.2]: https://d2fltix0v2e0sb.cloudfront.net/dev-black.png (DEV.to logo)
 
