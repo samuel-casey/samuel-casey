@@ -16,14 +16,6 @@ I'm an entrepreneurial Software Engineer from Boston, MA passionate about using 
 <img src=https://res.cloudinary.com/scimgcloud/image/upload/v1606874741/Screen_Shot_2020-12-01_at_9.04.53_PM_vswy9n.png />
 
 
-
-### My works in progress  ⏳
-- Improving [red ink](https://red-ink-writing.com) and [CoinRef](https://coinref.org)
-- Learning web3.js and finding a way to contribute to Ethereum projects
-- Finding a new role at mission-driven company working to solve real-world problems for everyday people 
-
-
-
 ### Links  🔗
 [Portfolio](https://samcasey.info) |   [![Twitter][1.2]](https://twitter.com/_samcasey)  |   [![LinkedIn][2.2]](https://www.linkedin.com/in/sam-casey1/)   |   [DEV.to](https://dev.to/samuelcasey)
 
