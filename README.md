@@ -1,4 +1,4 @@
-# Hi! I'm Sam Casey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Sam Casey
 
 I'm passionate about using my combination of business and tech skills to help others.  I'm a former product and strategy analyst turned software engineer, and I have been teaching myself to code since early 2019. I spent most of 2020 helping seed-stage startups with web design and development, and I also attended a General Assembly bootcamp to improve my React and backend skills. I'm currently working on a project called [DeFlow](https://github.com/samuel-casey/deflow-backend) and participating in Gitcoin's Kernel fellowship.
 
