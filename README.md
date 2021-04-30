@@ -1,6 +1,6 @@
 # Sam Casey
 
-Full-stack software engineer and former crypto analyst aiming to make the world a better place through the power of blockchains. Currently building [Charged Particles](https://charged.fi) with an awesome team.
+Full-stack software engineer and former crypto analyst aiming to make the world a better place through the power of blockchains. Currently working on [Charged Particles](https://charged.fi).
 
 ### Github Stats 📊
 
